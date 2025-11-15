@@ -6,22 +6,17 @@
 
 # My Intro: 
 
-<table>
-    <tr>
-      <br> Hi, 😃👋 I'm Deviprasad Shetty, highly passionate for coding, learning and exploring new fields in Computer Science domain. 
+<br> Hi, 😃👋 I'm Deviprasad Shetty, highly passionate for coding, learning and exploring new fields in Computer Science domain. 
 <br> I'm excited 😃 to dive deeper into my technical skills, collaborate with others, and take on projects that challenge me to grow. 
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
-    </tr>
-    <tr align="right" valign="top" width="200">
-      <img src="https://github.com/DeviprasadShetty9833/My_Projects/blob/32bcdf0f6b47aa596d4bc20a12447a0fa3a0b866/assets/e709c4b7172240b08f05c25967246315.gif" alt="Sharingans" width="180" height="180" />
-    </tr>
-  
-</table>
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) | [![My Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Portfolio)  |                      
 |---|---|---|
 <br> 
+
+<img src="https://github.com/DeviprasadShetty9833/My_Projects/blob/32bcdf0f6b47aa596d4bc20a12447a0fa3a0b866/assets/e709c4b7172240b08f05c25967246315.gif" alt="Sharingans" width="180" height="180" />
+
 
 ---
 
