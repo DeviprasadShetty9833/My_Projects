@@ -49,6 +49,9 @@
 
 *- Kakashi Hatake*
 
+*"Don't quit before you even make an attempt. Do what you can, no matter how small, it still matters!"*
+
+*- Naruto Uzumaki*
 </div>
 
 ---
