@@ -45,11 +45,11 @@
 
 <img src="https://github.com/DeviprasadShetty9833/My_Projects/blob/32bcdf0f6b47aa596d4bc20a12447a0fa3a0b866/assets/e709c4b7172240b08f05c25967246315.gif" alt="Sharingans" width="250" height="250" />
 
-#### *"If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be!"*
+### *"If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be!"*
 
 *- Kakashi Hatake*
 
-#### *"Don't quit before you even make an attempt. Do what you can, no matter how small, it still matters!"*
+### *"Don't quit before you even make an attempt. Do what you can, no matter how small, it still matters!"*
 
 *- Naruto Uzumaki*
 </div>
