@@ -45,7 +45,8 @@
 
 💡 Dream to Build, 🏗️ Build to Scale 🚀
 
-
+| **DSA Journey** | | |
+|--|--|--|
 
 <img src="https://github.com/DeviprasadShetty9833/My_Projects/blob/32bcdf0f6b47aa596d4bc20a12447a0fa3a0b866/assets/e709c4b7172240b08f05c25967246315.gif" alt="Sharingans" width="250" height="250" />
 
