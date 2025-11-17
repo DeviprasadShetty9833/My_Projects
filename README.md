@@ -45,8 +45,17 @@
 
 💡 Dream to Build, 🏗️ Build to Scale 🚀
 
-| **DSA Journey** | [![DSA_Journal](https://img.shields.io/badge/DSA_Journal-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Journal) | [![DSA_Prep_Qns](https://img.shields.io/badge/DSA_Prep_Qns-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns) |
-|--|--|--|
+---
+
+# My DSA Journey 
+
+<table>
+<tr><td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=DSA_Journal&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/DeviprasadShetty9833/DSA_Journal)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=DSA_Prep_Qns&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns) 
+
+</td></tr>
+</table>
 
 <img src="https://github.com/DeviprasadShetty9833/My_Projects/blob/32bcdf0f6b47aa596d4bc20a12447a0fa3a0b866/assets/e709c4b7172240b08f05c25967246315.gif" alt="Sharingans" width="250" height="250" />
 
