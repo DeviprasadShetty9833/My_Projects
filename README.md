@@ -1,5 +1,3 @@
-# My_Projects
-
 <br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white)
 <br> 
 
@@ -20,6 +18,8 @@
 <div align = center>
 
 ![image](https://github.com/DeviprasadShetty9833/My_Projects/blob/66794168e392cf59a75b774bc941fe4c3aa195a8/assets/sharingan-gif-9.gif)
+
+# My_Projects
 
 <table>
 <tr><td>
