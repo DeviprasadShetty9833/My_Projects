@@ -45,7 +45,7 @@
 
 💡 Dream to Build, 🏗️ Build to Scale 🚀
 
-| **DSA Journey** | [![DSA_Journal](https://img.shields.io/badge/DSA_Journal-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Journal) | |
+| **DSA Journey** | [![DSA_Journal](https://img.shields.io/badge/DSA_Journal-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Journal) | [![DSA_Prep_Qns](https://img.shields.io/badge/DSA_Prep_Qns-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns) |
 |--|--|--|
 
 <img src="https://github.com/DeviprasadShetty9833/My_Projects/blob/32bcdf0f6b47aa596d4bc20a12447a0fa3a0b866/assets/e709c4b7172240b08f05c25967246315.gif" alt="Sharingans" width="250" height="250" />
