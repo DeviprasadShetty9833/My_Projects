@@ -34,7 +34,7 @@
 | 5. | [![Battleship](https://img.shields.io/badge/Battleship-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Battleship)  | ![Progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 | 4. | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  | ![Progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 | 3. | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) | ![Progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
-| 2. | [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) | ![Progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
+| 2. | [![Cube.py](https://img.shields.io/badge/Cube.py-34A8ab?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) | ![Progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 | 1. | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) | ![Progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 |   |   |   |
 
