@@ -17,7 +17,7 @@
 
 <div align = center>
 
-![image](https://github.com/DeviprasadShetty9833/My_Projects/blob/66794168e392cf59a75b774bc941fe4c3aa195a8/assets/sharingan-gif-9.gif)
+![sharingan](https://github.com/DeviprasadShetty9833/My_Projects/blob/66794168e392cf59a75b774bc941fe4c3aa195a8/assets/sharingan-gif-9.gif)
 
 # 👨‍💻 My Projects
 
@@ -53,7 +53,7 @@
 <table>
 <tr><td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=DSA_Journal&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/DeviprasadShetty9833/DSA_Journal)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=DSA_Prep_Qns&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns) 
+[![DSA_Journal](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=DSA_Journal&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/DeviprasadShetty9833/DSA_Journal)  [![DSA_Prep_Qns](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=DSA_Prep_Qns&theme=radical&hide_border=false&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&border_color=61dafb&border_radius=10)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns) 
 
 </td></tr>
 </table>
