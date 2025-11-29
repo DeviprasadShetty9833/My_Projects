@@ -44,7 +44,7 @@
 
 🔥 Many more Projects in Development! 🔥
 
-💡 Dream to Build, 🏗️ Build to Scale 🚀
+<!-- 💡 Dream to Build, 🏗️ Build to Scale 🚀 -->
 
 ![IDEATE](https://img.shields.io/badge/💡_IDEATE-E34F26?style=for-the-badge&logo=idea&logoColor=white) ![INNOVATE](https://img.shields.io/badge/🏗️_INNOVATE-FFFFFF?style=for-the-badge&logo=innoovate&logoColor=white) ![INSPIRE](https://img.shields.io/badge/🚀_INSPIRE-34a952?style=for-the-badge&logo=inspired&logoColor=white)
 
