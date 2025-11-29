@@ -46,7 +46,7 @@
 
 💡 Dream to Build, 🏗️ Build to Scale 🚀
 
-![IDEATE](https://img.shields.io/badge/IDEATE-E34F26?style=for-the-badge&logo=idea&logoColor=white) ![INNOVATE](https://img.shields.io/badge/INNOVATE-FFFFFF?style=for-the-badge&logo=idea&logoColor=white) ![INSPIRE](https://img.shields.io/badge/INSPIRE-FFFFFF?style=for-the-badge&logo=idea&logoColor=white)
+![IDEATE](https://img.shields.io/badge/IDEATE-E34F26?style=for-the-badge&logo=idea&logoColor=white) ![INNOVATE](https://img.shields.io/badge/INNOVATE-FFFFFF?style=for-the-badge&logo=idea&logoColor=white) ![INSPIRE](https://img.shields.io/badge/INSPIRE-2EC866?style=for-the-badge&logo=idea&logoColor=white)
 
 ---
 
