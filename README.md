@@ -46,6 +46,8 @@
 
 💡 Dream to Build, 🏗️ Build to Scale 🚀
 
+![IDEATE](https://img.shields.io/badge/IDEATE-FFFFFF?style=for-the-badge&logo=idea&logoColor=white) ![INNOVATE](https://img.shields.io/badge/INNOVATE-FFFFFF?style=for-the-badge&logo=idea&logoColor=white) ![INSPIRE](https://img.shields.io/badge/INSPIRE-FFFFFF?style=for-the-badge&logo=idea&logoColor=white)
+
 ---
 
 # ⏳ My DSA Journey 
