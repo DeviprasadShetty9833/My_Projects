@@ -27,7 +27,7 @@
 |   |   |   |
 |---|---|---|
 | **No.** | 🔗 **Project Links** | 📊 **Progress** |
-| 10. | [![Invester_Ledger](https://img.shields.io/badge/☕-Invester_Ledger-E34F26?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeviprasadShetty9833/Invester_Ledger)  | ![Progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
+| 10. | [![Invester_Ledger](https://img.shields.io/badge/☕_Invester_Ledger-E34F26?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeviprasadShetty9833/Invester_Ledger)  | ![Progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 | 9. | [![Golden Fields Restaurants](https://img.shields.io/badge/Golden_Fields_Restaurant-%23323330?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) | ![Progress](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 | 8. <img src="https://github.com/DeviprasadShetty9833/My_Projects/blob/4c72bb6ff5a4d3eb36c03e9913f84bd928690f65/assets/e4bc0799c9451146ee915317f92800ef.gif" alt="O(n³)" width="40">| [![EcoGauge](https://img.shields.io/badge/EcoGauge-34a952?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/DeviprasadShetty9833/EcoGauge) | ![Progress](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 | 7. | [![My_Website](https://img.shields.io/badge/My_Website-E2725B?style=for-the-badge&logo=Html5&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Website) | ![Progress](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
