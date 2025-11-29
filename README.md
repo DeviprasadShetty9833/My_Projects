@@ -46,7 +46,7 @@
 
 <!-- 💡 Dream to Build, 🏗️ Build to Scale 🚀 -->
 
-![IDEATE](https://img.shields.io/badge/💡_IDEATE-E34F26?style=for-the-badge&logo=idea&logoColor=white) ![INNOVATE](https://img.shields.io/badge/🏗️_INN_🔵_VATE-FFFFFF?style=for-the-badge&logo=innoovate&logoColor=white&text=000080) ![INSPIRE](https://img.shields.io/badge/🚀_INSPIRE-34a952?style=for-the-badge&logo=inspired&logoColor=white)
+![IDEATE](https://img.shields.io/badge/💡_IDEATE-E34F26?style=for-the-badge&logo=idea&logoColor=white) ![INNOVATE](https://img.shields.io/badge/🏗️_INN🔵VATE-FFFFFF?style=for-the-badge&logo=innoovate&logoColor=white&text=000080) ![INSPIRE](https://img.shields.io/badge/🚀_INSPIRE-34a952?style=for-the-badge&logo=inspired&logoColor=white)
 
 ---
 
